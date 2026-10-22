@@ -1,6 +1,12 @@
-# CV dinámico de Julián Giraldo
+# CV profesional de Julián Giraldo
 
-Este repositorio contiene mi **CV interactivo en HTML**, pensado para compartirse como enlace público y consultarse desde navegador en versión visual o ATS.
+CV web interactivo orientado a posiciones de **IT Project Manager, PMO e IT Business Partner**.
+
+Recoge mi trayectoria en TI y telecomunicaciones, incluyendo mi experiencia actual como PMO de integración tecnológica en el sector logístico y mis trabajos anteriores en transformación organizacional, eficiencia tecnológica y gestión de proyectos.
+
+Disponible en español e inglés, con vistas por enfoque profesional, niveles de detalle y exportación a PDF desde el navegador.
+
+**Actualización de contenido: octubre de 2026.**
 
 ## Acceso online
 Una vez activado GitHub Pages, el CV estará disponible en:
